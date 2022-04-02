@@ -19,4 +19,6 @@
 ###Testes realizados através do Pest
 - `docker-compose exec web php vendor/bin/pest`
 
+###Actions encontra-se no arquivo .github/workflows/laravel.yml
+
 ###Link do postman: https://www.postman.com/blue-flare-993149/workspace/test-vitamina-web
