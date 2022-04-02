@@ -79,4 +79,5 @@ class OpportunityController extends Controller
     {
         return OpportunityResource::make(RefuseOpportunity::run($id));
     }
+
 }
